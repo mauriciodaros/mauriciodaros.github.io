@@ -87,6 +87,18 @@ div.menu-item {
 	text-indent: -16px;
 }
 
+div.teaching-submenu {
+	display: block;
+	padding-left: 0.5em;
+	text-indent: 0;
+}
+
+#layout-menu div.teaching-submenu a {
+	display: block;
+	margin-left: 0;
+	font-size: 90%;
+}
+
 div#toptitle {
 	padding-bottom: 0.2em;
 	margin-bottom: 1.5em;
